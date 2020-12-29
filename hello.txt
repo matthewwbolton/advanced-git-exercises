@@ -1,6 +1,3 @@
-<<<<<<< Updated upstream
 Hello World!
 This is a test of the emergency git-casting system.
-=======
-This is a test!!! This is only a test!!!
->>>>>>> Stashed changes
+
