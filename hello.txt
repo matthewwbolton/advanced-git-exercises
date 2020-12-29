@@ -1,9 +1,2 @@
-<<<<<<< HEAD
-Hello, Matthew!
-=======
 Hello World!
-This is a test of the emergency git-casting system.
-<<<<<<< HEAD
->>>>>>> e348ebc (Testing the emergency git-casting system)
-=======
->>>>>>> e348ebc (Testing the emergency git-casting system)
+
